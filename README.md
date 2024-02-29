@@ -1,6 +1,5 @@
 txt파일에 있는 문자열을 읽고 이를 단어장으로 만드는 프로젝트
 
-*/
 VocaaData와 VocaaMng는 셋트임
 VocaaMng와 VocaaHashMap은 같은 기능을 하나 그 방식에서 차이가 보인다.
 외부 txt파일을 읽어보는 과정은 똑같으나 txt파일 내부에 , 로 구분되어 있는 문자열을 VocaaMng에선
